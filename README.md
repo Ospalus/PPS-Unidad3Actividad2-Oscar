@@ -4,6 +4,7 @@ Unidad 3 - Actividad 2. Detección de equipos, puertos, servicios,vulnerabilidad
 Tenemos como objetivo:
 
 > Aprender y conocer comandos y herramientas para escanear y localizar equipos y recursos.
+>
 > Practicar y probar en el entorno de pruebas con dichas herramientas.
 ---
 ## ACTIVIDADES A REALIZAR
