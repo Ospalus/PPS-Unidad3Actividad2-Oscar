@@ -1,11 +1,11 @@
-# PPS-Unidad3Actividad2-JoseMi-
+# PPS-Unidad3Actividad2-Oscar-
 Unidad 3 - Actividad 2. Detección de equipos, puertos, servicios,vulnerabilidades.
 
 Tenemos como objetivo:
 
-> Aprender y conocer comandos y herramientas para escanear y localizar equipos y recursos.
+> [Aprender y conocer comandos y herramientas para escanear y localizar equipos y recursos.](/Aprendizaje.md)
 >
-> Practicar y probar en el entorno de pruebas con dichas herramientas.
+> [Practicar y probar en el entorno de pruebas con dichas herramientas.](/Practicas.md)
 ---
 ## ACTIVIDADES A REALIZAR
 - Busca información de:
